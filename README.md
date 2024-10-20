@@ -20,8 +20,8 @@ I am an Electronics and Telecommunications Engineer with expertise in Android ke
   - [SMTPClient](https://github.com/alalvarez29/SMTPClient) - SMTP Client with Python using a SSL connection. 
 
 <!-- STATS Y LENGUAJES MÁS USADOS -->
-<div style="display: flex; align-items: center; justify-content: center;">
-   <img style="height: auto; width: 30%; max-width: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alalvarez29&layout=compact&theme=shadow_red&langs_count=8"/>
+<div style="text-align: center;">
+   <img style="height: auto; width: 30%; max-width: 300px; margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alalvarez29&layout=compact&theme=shadow_red&langs_count=8"/>
    <img style="height: auto; width: 49%; max-width: 400px;" src="https://github-readme-streak-stats.herokuapp.com/?user=alalvarez29&theme=shadow_red"/>
 </div>
 
