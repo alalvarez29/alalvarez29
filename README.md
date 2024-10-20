@@ -4,7 +4,7 @@ I am an Electronics and Telecommunications Engineer with expertise in Android ke
 ## Projects
 - **Android kernel development**
 
-Custom Android kernel implementations for Motorola and Xiaomi devices
+   Custom Android kernel implementations for Motorola and Xiaomi devices.
   - [CoffeeKernel](https://github.com/alalvarez29/CoffeeKernel)
   - [SpeedMax](https://github.com/alalvarez29/SpeedMax)
   - [CaramelKernel](https://github.com/alalvarez29/CaramelKernel)
@@ -12,3 +12,7 @@ Custom Android kernel implementations for Motorola and Xiaomi devices
   
 - **High performance computing (HPC)**
   - [Pi-Kernel](https://github.com/alalvarez29/Pi-Kernel) - Miniapp that calculates Pi number using Riemann sum across many parallel programming models.
+ 
+- **Network programming**
+  - [SMTPClient](https://github.com/alalvarez29/SMTPClient) - SMTP Client with Python using a SSL connection. 
+
