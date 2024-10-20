@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, my name is Anderson.
+I am an Electronics and Telecommunications Engineer with expertise in Android kernel development and high-performance computing concepts. Currently focusing on the cybersecurity field, I seek opportunities to deepen my understanding and contribute to cybersecurity solutions.
 
-<!--
-**alalvarez29/alalvarez29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+- **Android kernel development**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Custom Android kernel implementations for Motorola and Xiaomi devices
+  - [CoffeeKernel](https://github.com/alalvarez29/CoffeeKernel)
+  - [SpeedMax](https://github.com/alalvarez29/SpeedMax)
+  - [CaramelKernel](https://github.com/alalvarez29/CaramelKernel)
+  - [UltraKernel](https://github.com/alalvarez29/UltraKernel)
+  
+- **High performance computing (HPC)**
+  - [Pi-Kernel](https://github.com/alalvarez29/Pi-Kernel) - Miniapp that calculates Pi number using Riemann sum across many parallel programming models.
