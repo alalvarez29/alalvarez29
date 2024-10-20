@@ -1,7 +1,9 @@
 <!-- TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-# Hi, my name is Anderson.
+<!-- TYPING DATA -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff3333&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Anderson;Welcome+to+my+profile!)
+
 I am an Electronics and Telecommunications Engineer with expertise in Android kernel development and high-performance computing concepts. Currently focusing on the cybersecurity field, I seek opportunities to deepen my understanding and contribute to cybersecurity solutions.
 
 ## Projects
@@ -21,8 +23,8 @@ I am an Electronics and Telecommunications Engineer with expertise in Android ke
 
 <!-- STATS Y LENGUAJES MÁS USADOS -->
 <div style="text-align: center;">
-   <img style="height: auto; width: 30%; max-width: 300px; margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alalvarez29&layout=compact&theme=shadow_red&langs_count=8"/>
-   <img style="height: auto; width: 49%; max-width: 400px;" src="https://github-readme-streak-stats.herokuapp.com/?user=alalvarez29&theme=shadow_red"/>
+   <img style="height: auto; width: 30%; max-width: 300px; margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alalvarez29&layout=compact&theme=rose&langs_count=8"/>
+   <img style="height: auto; width: 49%; max-width: 400px;" src="https://github-readme-streak-stats.herokuapp.com/?user=alalvarez29&theme=rose"/>
 </div>
 
 <!-- BOTTOM -->
