@@ -4,8 +4,6 @@
 <!-- TYPING DATA -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff3333&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Anderson;Welcome+to+my+profile!)
 
-I am an Electronics and Telecommunications Engineer with expertise in Android kernel development and high-performance computing concepts. Currently focusing on the cybersecurity field, I seek opportunities to deepen my understanding and contribute to cybersecurity solutions.
-
 ## Projects
 - **Android kernel development**
 
