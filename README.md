@@ -1,3 +1,9 @@
+<h2 align="center">👋 Hi there</h2>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=alalvarez29&color=blue"/>
+</p>
+
 <h2 align="center">My Skills</h2>
 
 <h4 align="center">Cybersecurity</h4>
