@@ -4,6 +4,28 @@
 <!-- TYPING DATA -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff3333&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Anderson;Welcome+to+my+profile!)
 
+<h2 align="center">My Skills</h2>
+
+<h4 align="center">Programming languages</h4>
+
+<p align="center">
+<a href="https://www.gnu.org/software/gnu-c-manual/"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="https://isocpp.org/"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>   
+<a href="https://www.rust-lang.org/es"><img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+</p>
+
+<h4 align="center">Software</h4>
+
+<p align="center">
+<a href="https://apache.org/"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"></a>
+<a href="https://cmake.org/"><img alt="Cmake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"></a>   
+<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a href="https://nginx.org/en/"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>
+<a href="https://ngrok.com/"><img alt="Ngrok" src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white"></a>   
+<a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
+</p>
+
 ## Projects
 - **Android kernel development**
 
@@ -30,17 +52,6 @@
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=alalvarez29&theme=rose"/>
-</p>
-
-<h2 align="center">My Skills</h2>
-
-<h4 align="center">Programming languages</h4>
-
-<p align="center">
-<a href="https://www.gnu.org/software/gnu-c-manual/"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-<a href="https://isocpp.org/"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>   
-<a href="https://www.rust-lang.org/es"><img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"></a>
-<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
 </p>
 
 <!-- BOTTOM -->
