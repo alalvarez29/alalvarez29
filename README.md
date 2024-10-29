@@ -32,5 +32,16 @@
     <img src="https://github-profile-trophy.vercel.app/?username=alalvarez29&theme=rose"/>
 </p>
 
+<h2 align="center">My Skills</h2>
+
+<h4 align="center">Programming languages</h4>
+
+<p align="center">
+<a href="https://github.com/search?q=user%3Aalalvarez29+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Aalalvarez29+language%3Ac++"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>   
+<a href="https://github.com/search?q=user%3Aalalvarez29+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"></a>
+<a href="https://github.com/search?q=user%3Aalalvarez29+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+</p>
+
 <!-- BOTTOM -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
