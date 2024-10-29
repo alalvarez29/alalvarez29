@@ -1,9 +1,3 @@
-<!-- TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<!-- TYPING DATA -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff3333&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Anderson;Welcome+to+my+profile!)
-
 <h2 align="center">My Skills</h2>
 
 <h4 align="center">Operating Systems</h4>
@@ -62,6 +56,3 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=alalvarez29&theme=rose"/>
 </p>
-
-<!-- BOTTOM -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
