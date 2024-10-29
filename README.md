@@ -1,5 +1,12 @@
 <h2 align="center">My Skills</h2>
 
+<h4 align="center">Cybersecurity</h4>
+
+<p align="center">
+<a href="https://portswigger.net/burp"><img alt="Burp Suite" src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"></a>
+<a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"></a>   
+</p>
+
 <h4 align="center">Operating Systems</h4>
 
 <p align="center">
