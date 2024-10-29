@@ -13,7 +13,7 @@
 <a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"></a>   
 </p>
 
-<h4 align="center">Operating Systems</h4>
+<h4 align="center">Operating systems</h4>
 
 <p align="center">
 <a href="https://www.android.com/"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
@@ -51,20 +51,25 @@
 <a href="https://www.vmware.com/"><img alt="VMware" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"></a>
 </p>
 
-## Projects
-- **Android kernel development**
+<h2 align="center">Projects</h2>
 
-   Custom Android kernel implementations for Motorola and Xiaomi devices.
-  - [CoffeeKernel](https://github.com/alalvarez29/CoffeeKernel)
-  - [SpeedMax](https://github.com/alalvarez29/SpeedMax)
-  - [CaramelKernel](https://github.com/alalvarez29/CaramelKernel)
-  - [UltraKernel](https://github.com/alalvarez29/UltraKernel)
-  
-- **High performance computing (HPC)**
-  - [Pi-Kernel](https://github.com/alalvarez29/Pi-Kernel) - Miniapp that calculates Pi number using Riemann sum across many parallel programming models.
- 
-- **Network programming**
-  - [SMTPClient](https://github.com/alalvarez29/SMTPClient) - SMTP Client with Python using a SSL connection. 
+<div align="center">
+    <strong>Pi-Kernel:</strong> High Performance Computing benchmark.
+    <a href="https://github.com/alalvarez29/Pi-Kernel" target="_blank">Link to repository</a>
+    <br><br>
+    <strong>SMTP Client:</strong> SMTP Client with SSL connection in Python.
+    <a href="https://github.com/alalvarez29/SMTPClient" target="_blank">Link to repository</a>
+    <br><br>
+    <strong>Coffee Kernel:</strong> Custom Android Kernel implementation for Motorola Moto X Play.
+    <a href="https://github.com/alalvarez29/CoffeeKernel" target="_blank">Link to repository</a>
+    <br><br>
+    <strong>Sys-Watchdog:</strong> Time real system monitor in Rust.
+    <a href="https://github.com/alalvarez29/sys-watchdog" target="_blank">Link to repository</a>
+    <br><br>
+    <strong>Ultra Kernel</strong> Custom Android Kernel implementation for Motorola Moto E 1st gen.
+    <a href="https://github.com/alalvarez29/UltraKernel" target="_blank">Link to repository</a>
+</div>
+
 
 
 <h2 align="center">Statistics</h2>
