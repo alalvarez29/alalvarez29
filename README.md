@@ -6,6 +6,15 @@
 
 <h2 align="center">My Skills</h2>
 
+<h4 align="center">Operating Systems</h4>
+
+<p align="center">
+<a href="https://www.android.com/"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+<a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>   
+<a href="https://support.apple.com/mac"><img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+<a href="https://www.microsoft.com/en-us/windows"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+</p>
+
 <h4 align="center">Programming languages</h4>
 
 <p align="center">
