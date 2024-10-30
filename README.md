@@ -1,5 +1,9 @@
 <h2 align="center">👋 Hi there, I'm Anderson</h2>
 
+<p align="justify">
+I'm an Electronic and Telecommunications Engineer with experience implementing and modifying Android Kernels due to my knowledge in programming languages like C/C++ and Rust. I'm passionate about cybersecurity field, implementing reliable systems and finding vulnerabilities to fix and contributing to more secure systems. Also, I'm continuously learning about High Performance Computing, highligthing and exploring concepts like performance and portability of different benchmarks running on heterogeneous computational infrastructure and testbeds.
+</p>
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=alalvarez29&color=blue"/>
 </p>
